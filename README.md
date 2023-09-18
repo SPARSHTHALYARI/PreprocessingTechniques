@@ -10,3 +10,5 @@ Data Cleaning:
 Handling Missing Values: Fill missing values using techniques like mean, median, mode, or more advanced imputation methods.
 
 i will upload various other methods in upcoming weeks 
+
+APPLY VARIOUS AND ACORDINGLY TO THE DATA
